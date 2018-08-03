@@ -2,7 +2,7 @@
 //
 // //Part 1
 //
-// var kittens = ['Milo', 'Otis', 'Garfield'];
+var kittens = ['Milo', 'Otis', 'Garfield'];
 //
 // function JSKittenLab(kittens) {
 //
