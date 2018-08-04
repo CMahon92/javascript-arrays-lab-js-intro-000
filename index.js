@@ -1,7 +1,5 @@
-// // Add your functions and code here
-//
-// //Part 1
-//
+// Add your functions and code here
+
 var kittens = ['Milo', 'Otis', 'Garfield'];
 
 function destructivelyAppendKitten(name) {
@@ -34,5 +32,5 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-  
+
 }
