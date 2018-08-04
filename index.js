@@ -22,6 +22,4 @@ function destructivelyRemoveLastKitten() {
 }
 
 
-function destructivelyRemoveLastKitten() {
-  
-}
+
